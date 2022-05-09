@@ -28,7 +28,7 @@ Portability: any
 Description: .
 -}
 
-module . where
+module Module where
 
 {------------------------------------------------------------------------------}
 
