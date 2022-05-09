@@ -19,7 +19,7 @@
 [------------------------------------------------------------------------------}
 
 {-|
-Module:      .
+Module:      Module
 Copyright:   (C) 2022 Kevin Matthes
 License:     GPL 2.0
 Maintainer:  Kevin Matthes
