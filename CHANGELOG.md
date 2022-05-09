@@ -44,6 +44,18 @@
 
 ## [Unreleased]
 
+### Added
+
+* template:  C++ header
+* template:  C++ source file
+* template:  CHANGELOG
+* template:  C header
+* template:  C source file
+* template:  GNU Octave source file
+* template:  Lex source file
+* template:  project meta data
+* template:  README
+
 ## [0.0.1] -- 2022-05-09
 
 ### Added
