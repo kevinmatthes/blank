@@ -52,6 +52,7 @@
 * template:  C header
 * template:  C source file
 * template:  GNU Octave source file
+* template:  Haskell source file
 * template:  Lex source file
 * template:  project meta data
 * template:  README
