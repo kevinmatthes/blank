@@ -45,6 +45,7 @@ build/
 *.a
 *.bak
 *.dll
+*.hi
 *.lib
 *.o
 *.obj
