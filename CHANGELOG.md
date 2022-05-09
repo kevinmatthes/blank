@@ -49,6 +49,7 @@
 * add GPL 2.0 license
 * build instruction:  repository manual
 * create `.gitignore`
+* create project meta data for repository manual
 * create repository README
 * create this changelog
 * create this repository
