@@ -79,7 +79,9 @@ invoked by calling `repository-manual.m`.
 | `docs-snippets`   | repository    | documentation constants               |
 | Doxygen           | application   | creation of source code documentation |
 | GCC               | application   | C compiler                            |
+| GHC               | application   | Haskell compiler                      |
 | GNU Octave        | application   | execution of the provided scripts     |
+| Haddock           | application   | creation of source code documentation |
 | `make`            | application   | finalisation of Doxygen documentation |
 | Pandoc            | application   | compilation of repository manual      |
 | `texlive-full`    | package       | compilation of repository manual      |
