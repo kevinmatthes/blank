@@ -50,6 +50,10 @@
 * new default ignore directory:  `html/` (Haddock section)
 * new default ignore type:  `*.hi`
 
+### Fixed
+
+* default module name in Haskell template
+
 ## [0.0.2] -- 2022-05-09
 
 ### Added
