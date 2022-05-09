@@ -53,6 +53,5 @@
 * create this changelog
 * create this repository
 * submodule `docs-snippets`
-* submodule `routines`
 
 <!----------------------------------------------------------------------------->
