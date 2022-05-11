@@ -21,7 +21,7 @@
 ################################################################################
 ##
 ##  AUTHOR      Kevin Matthes
-##  BRIEF       Settings for the Git repository.
+##  BRIEF       Citation settings for the Git repository.
 ##  COPYRIGHT   (C) 2022 Kevin Matthes.
 ##              This file is licensed GPL 2 as of June 1991.
 ##  DATE        2022
@@ -31,40 +31,26 @@
 ##
 ################################################################################
 
-# Build artifacts.
-build/
-*.a
-*.bak
-*.dll
-*.hi
-*.lib
-*.o
-*.obj
-*.so
+# Parser settings.
+cff-version: 1.2.0
+message: Please cite this software using these meta data.
 
-# Documentation artifacts.
-*.pdf
+# Version information.
+date-released: YYYY-MM-DD
+version: 0.0.0
 
-# Doxygen / Haddock directories.
-html/
-latex/
+# Project information.
+abstract: .
+authors:
+  - family-names: .
+  - given-names: .
+license: GPL-2.0
+repository-code: .
+title: .
+url: .
 
-# LaTeX artifacts.
-*.aux
-*.bbl
-*.bcf
-*.blg
-*.fdb_latexmk
-*.fls
-*.lof
-*.log
-*.lol
-*.lot
-*.out
-*.run.xml
-*.synctex(busy)
-*.synctex.gz
-*.tdo
-*.toc
+# References.
+references:
+  - type: generic
 
 ################################################################################
