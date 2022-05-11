@@ -156,9 +156,7 @@ references:
     repository-code: https://github.com/citation-file-format/cff-converter-python
     title: cffconvert
     version: 2.0.0
-
-################################################################################
-  - type: generic
+  - type: software-code
     title: Ruby CFF Library
     abstract: This library provides a Ruby interface to manipulate Citation File Format files
     authors:
@@ -182,3 +180,5 @@ references:
     license: Apache-2.0
     repository-artifact: https://rubygems.org/gems/cff
     repository-code: https://github.com/citation-file-format/ruby-cff
+
+################################################################################
