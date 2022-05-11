@@ -36,21 +36,19 @@ cff-version: 1.2.0
 message: Please cite this software using these meta data.
 
 # Version information.
-date-released: YYYY-MM-DD
-version: 0.0.0
+date-released: 2022-05-11
+version: 0.0.3
 
 # Project information.
-abstract: .
+abstract: A collection of initialised source file templates.
 authors:
-  - family-names: .
-  - given-names: .
+  - family-names: Matthes
+  - given-names: Kevin
 license: GPL-2.0
-repository-code: .
-title: .
-url: .
+repository-artifact: https://github.com/kevinmatthes/blank
+title: blank
+url: https://github.com/kevinmatthes/blank
 
 # References.
 references:
-  - type: generic
-
 ################################################################################
