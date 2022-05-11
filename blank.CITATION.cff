@@ -43,7 +43,7 @@ version: 0.0.0
 abstract: .
 authors:
   - family-names: .
-  - given-names: .
+    given-names: .
 license: GPL-2.0
 repository-code: .
 title: .
