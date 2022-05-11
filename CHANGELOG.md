@@ -44,6 +44,10 @@
 
 ## [Unreleased]
 
+### Added
+
+* cite `docs-snippets`
+
 ## [0.0.3] -- 2022-05-11
 
 ### Added
