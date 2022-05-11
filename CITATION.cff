@@ -51,8 +51,7 @@ url: https://github.com/kevinmatthes/blank
 
 # References.
 references:
-################################################################################
-  - type: generic
+  - type: standard
     abstract: CITATION.cff files are plain text files with human- and machine-readable citation information for software. Code developers can include them in their repositories to let others know how to correctly cite their software. This is the specification for the Citation File Format.
     authors:
       - family-names: Druskat
@@ -106,3 +105,5 @@ references:
       - credit
     license: "CC-BY-4.0"
     doi: 10.5281/zenodo.5171937
+
+################################################################################
