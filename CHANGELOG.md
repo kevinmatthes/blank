@@ -46,6 +46,7 @@
 
 ### Added
 
+* create `CITATION.cff`
 * new default ignore directory:  `build/`
 * new default ignore directory:  `html/` (Haddock section)
 * new default ignore type:  `*.hi`
