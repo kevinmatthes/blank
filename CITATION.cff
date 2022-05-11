@@ -43,7 +43,7 @@ version: 0.0.3
 abstract: A collection of initialised source file templates.
 authors:
   - family-names: Matthes
-  - given-names: Kevin
+    given-names: Kevin
 license: GPL-2.0
 repository-artifact: https://github.com/kevinmatthes/blank
 title: blank
