@@ -50,6 +50,10 @@
 * new default ignore directory:  `html/` (Haddock section)
 * new default ignore type:  `*.hi`
 
+### Changed
+
+* comment banners in `.gitignore`
+
 ### Fixed
 
 * default module name in Haskell template
