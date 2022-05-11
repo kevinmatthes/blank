@@ -105,9 +105,7 @@ references:
       - credit
     license: "CC-BY-4.0"
     doi: 10.5281/zenodo.5171937
-
-################################################################################
-  - type: generic
+  - type: software
     abstract: Command line program to validate and convert CITATION.cff files.
     authors:
       - affiliation: Netherlands eScience Center
@@ -158,3 +156,5 @@ references:
     repository-code: https://github.com/citation-file-format/cff-converter-python
     title: cffconvert
     version: 2.0.0
+
+################################################################################
