@@ -49,6 +49,10 @@ repository-code: .
 title: .
 url: .
 
+# Preferred reference.
+preferred-reference:
+  type: generic
+
 # References.
 references:
   - type: generic
