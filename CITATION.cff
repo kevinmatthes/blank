@@ -49,6 +49,20 @@ repository-artifact: https://github.com/kevinmatthes/blank
 title: blank
 url: https://github.com/kevinmatthes/blank
 
+# Preferred citation.
+preferred-citation:
+  abstract: A collection of initialised source file templates.
+  authors:
+    - family-names: Matthes
+      given-names: Kevin
+  date-released: 2022-05-11
+  license: GPL-2.0
+  repository-artifact: https://github.com/kevinmatthes/blank
+  title: blank
+  type: software-code
+  url: https://github.com/kevinmatthes/blank
+  version: 0.0.3
+
 # References.
 references:
   - type: standard
