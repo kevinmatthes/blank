@@ -46,11 +46,12 @@
 
 ### Added
 
+* add `preferred-citation`
 * cite `docs-snippets`
 
 ### Changed
 
-* add `preferred-reference` to CFF template
+* add `preferred-citation` to CFF template
 
 ## [0.0.3] -- 2022-05-11
 
