@@ -52,6 +52,7 @@
 ### Changed
 
 * add `preferred-citation` to CFF template
+* optimise comment banners of project meta data
 * optimise comment banners of project meta data template
 
 ## [0.0.3] -- 2022-05-11
