@@ -44,6 +44,8 @@
 
 ## [Unreleased]
 
+## [0.0.4] -- 2022-05-14
+
 ### Added
 
 * add `preferred-citation`
