@@ -48,6 +48,7 @@
 
 * add `preferred-citation`
 * cite `docs-snippets`
+* GitHub Action:  automatic CFF validation
 
 ### Changed
 
