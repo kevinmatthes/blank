@@ -47,7 +47,7 @@ A collection of initialised source file templates.
 
 ## License
 
-This project's license is **GPL 2** (as of June 1991).  The whole license text
+This project's license is **GPL-2.0** (as of June 1991).  The whole license text
 can be found in `LICENSE` in the main directory of this repository.  The brief
 version is as follows:
 
@@ -66,31 +66,5 @@ version is as follows:
 > You should have received a copy of the GNU General Public License along
 > with this program; if not, write to the Free Software Foundation, Inc.,
 > 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
-When compiling a printable version of this documentation using Pandoc, the full
-license will be attached automatically to the resulting document.  This can be
-invoked by calling `repository-manual.m`.
-
-## Software Requirements
-
-| Requirement       | Type          | Role                                  |
-|:------------------|:-------------:|:--------------------------------------|
-| `docs-snippets`   | repository    | documentation constants               |
-| GNU Octave        | application   | execution of the provided scripts     |
-| Pandoc            | application   | compilation of repository manual      |
-| `texlive-full`    | package       | compilation of repository manual      |
-
-The compilation of such an **optional** repository manual can be invoked by just
-calling one of the following lines in a terminal.
-
-```
-octave repository-manual.m
-octave-cli repository-manual.m
-```
-
-Both will redirect to the same application, GNU Octave, which will then create
-the manual for this repository and attach the entire license to it.  The
-resulting file, `repository.pdf`, will be saved in the main directory of this
-repository.
 
 <!----------------------------------------------------------------------------->
