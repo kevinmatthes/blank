@@ -35,6 +35,19 @@
 
 ## [Unreleased]
 
+### Changed
+
+* shorten README
+* update license header of CHANGELOG
+* update license header of README
+
+### Removed
+
+* build instruction:  repository manual
+* project meta data for repository manual
+* submodule:  docs-snippets
+* template:  repository meta data
+
 ## [0.0.4] -- 2022-05-14
 
 ### Added
