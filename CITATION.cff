@@ -42,7 +42,8 @@ message: Please cite this software using these meta data.
 # Project information.
 abstract: A collection of initialised source file templates.
 authors:
-  - family-names: Matthes
+  - alias: kevinmatthes
+    family-names: Matthes
     given-names: Kevin
 license: GPL-2.0
 repository-artifact: https://github.com/kevinmatthes/blank
