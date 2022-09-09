@@ -41,9 +41,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
-        Please provide the following information in order to request a new
-        template.
+      value: Please provide the following information to request a new template.
   - type: input
     attributes:
       label: Coding Language
