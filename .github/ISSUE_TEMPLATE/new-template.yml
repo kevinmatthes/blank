@@ -47,7 +47,7 @@ body:
       label: Coding Language
       description: |
         Please specify the coding language for which the template is intended.
-      placeholder: C
+      placeholder: Name of the coding language
     validations:
       required: true
 
