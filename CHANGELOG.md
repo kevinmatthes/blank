@@ -38,6 +38,10 @@ based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+
+* template:  Just Build System
+
 ### Changed
 
 * shorten CITATION.cff
