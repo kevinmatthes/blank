@@ -1,3 +1,9 @@
+Added
+.....
+
+- settings for Scriv
+
+
 Changed
 .......
 
