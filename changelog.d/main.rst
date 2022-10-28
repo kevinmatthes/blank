@@ -23,6 +23,14 @@ Removed
 
 - project meta data for repository manual
 
+- software requirement:  docs-snippets
+
+- software requirement: GNU Octave
+
+- software requirement: Pandoc
+
+- software requirement: texlive-full
+
 - submodule:  docs-snippets
 
 - template:  repository meta data
