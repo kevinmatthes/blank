@@ -16,3 +16,8 @@ Added
 - ignore:  Fortran submodule interfaces
 
 - ignore:  Windows executables
+
+Changed
+.......
+
+- use SPDX license identifiers for copyright lines
