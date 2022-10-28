@@ -7,6 +7,12 @@ Added
 
 - settings for Scriv
 
+- software requirement:  bump2version
+
+- software requirement:  Just
+
+- software requirement:  Scriv
+
 
 Changed
 .......
