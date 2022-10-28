@@ -22,8 +22,7 @@
 ##
 ##  AUTHOR      Kevin Matthes
 ##  BRIEF       The definition of a GitHub Issue Template.
-##  COPYRIGHT   (C) 2022 Kevin Matthes.
-##              This file is licensed GPL 2 as of June 1991.
+##  COPYRIGHT   GPL-2.0
 ##  DATE        2022
 ##  FILE        new-template.yml
 ##  NOTE        See `LICENSE' for full license.
@@ -45,9 +44,8 @@ body:
   - type: input
     attributes:
       label: Coding Language
-      description: |
-        Please specify the coding language for which the template is intended.
-      placeholder: Name of the coding language
+      description: Please specify what the new template is intended for.
+      placeholder: A coding language, a configuration file, ...
     validations:
       required: true
 
