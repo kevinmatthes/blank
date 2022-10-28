@@ -28,8 +28,7 @@
 %%      Kevin Matthes
 %%
 %%  COPYRIGHT
-%%      (C) 2022 Kevin Matthes.
-%%      This file is licensed GPL 2 as of June 1991.
+%%      GPL-2.0
 %%
 %%  DATE
 %%      2022
