@@ -20,6 +20,8 @@ Added
 Changed
 .......
 
+- rename ``blank.CITATION.cff`` to ``blank.cff``
+
 - turn CHANGELOG template into Scriv RST template
 
 - use SPDX license identifiers for copyright lines
