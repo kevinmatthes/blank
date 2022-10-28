@@ -57,4 +57,17 @@ version is as follows:
 > with this program; if not, write to the Free Software Foundation, Inc.,
 > 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
+## Software Requirements
+
+| Requirement       | Type          | Role                                  |
+|:------------------|:-------------:|:--------------------------------------|
+| bump2version      | Python CLI    | automatic version increment           |
+| Just              | Rust binary   | execution of the build instructions   |
+| Scriv             | Python CLI    | changelog management                  |
+
+This repository has a version number and, thus, releases.  The version numbers
+are automatically incremented by **bump2version**.  The CHANGELOG is composed
+on release by **Scriv**.  Both steps are coordinated by the `.justfile` which
+controls the behaviour of the build system, **Just**.
+
 <!----------------------------------------------------------------------------->
