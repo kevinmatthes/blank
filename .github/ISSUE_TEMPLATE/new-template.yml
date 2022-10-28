@@ -43,7 +43,7 @@ body:
       value: Please provide the following information to request a new template.
   - type: input
     attributes:
-      label: Coding Language
+      label: Purpose
       description: Please specify what the new template is intended for.
       placeholder: A coding language, a configuration file, ...
     validations:
