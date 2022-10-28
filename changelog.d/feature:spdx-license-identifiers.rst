@@ -23,3 +23,10 @@ Changed
 - turn CHANGELOG template into Scriv RST template
 
 - use SPDX license identifiers for copyright lines
+
+Removed
+.......
+
+- CFF template:  placeholder for preferred citation
+
+- CFF template:  placeholder for references
