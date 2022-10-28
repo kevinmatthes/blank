@@ -32,21 +32,35 @@
 
 # Build artifacts.
 build/
+target/
+
 *.a
 *.bak
 *.dll
+*.exe
 *.hi
 *.lib
+*.mod
 *.o
 *.obj
+*.smod
 *.so
 
+
+
 # Documentation artifacts.
+*.asy
+*.eps
 *.pdf
+
+
 
 # Doxygen / Haddock directories.
 html/
 latex/
+man/
+
+
 
 # LaTeX artifacts.
 *.aux
