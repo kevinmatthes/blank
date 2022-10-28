@@ -31,11 +31,13 @@
 ################################################################################
 
 # Synonyms for the configured recipes.
+alias ver   := bump
 
-# The default recipe to execute.
-@default:
 
-# Execute all configured recipes.
-@all:
+
+# Increment the version numbers.
+@bump part:
+    bump2version {{part}}
+    scriv collect
 
 ################################################################################
