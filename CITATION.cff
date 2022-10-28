@@ -47,6 +47,7 @@ authors:
 license: GPL-2.0
 repository-artifact: https://github.com/kevinmatthes/blank
 title: blank
+type: dataset
 url: https://github.com/kevinmatthes/blank
 
 # References.
