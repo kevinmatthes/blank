@@ -20,4 +20,6 @@ Added
 Changed
 .......
 
+- turn CHANGELOG template into Scriv RST template
+
 - use SPDX license identifiers for copyright lines
