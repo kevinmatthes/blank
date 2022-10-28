@@ -3,6 +3,8 @@ Added
 
 - build instructions for automatic version increments
 
+- declare this repository a data set in CITATION.cff
+
 - settings for bump2version
 
 - settings for Scriv
