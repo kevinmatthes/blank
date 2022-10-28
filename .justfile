@@ -36,7 +36,7 @@ alias ver   := bump
 
 
 # Increment the version numbers.
-@bump {{part}}:
+@bump part:
     bump2version {{part}}
     scriv collect
 
