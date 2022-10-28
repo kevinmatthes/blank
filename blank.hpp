@@ -23,7 +23,7 @@
  * \brief       .
  * \copyright   GPL-2.0
  * \date        2022
- * \file        .h
+ * \file        .hpp
  * \note        See `LICENSE' for full license.
  *              See `README.md' for project details.
  */
@@ -39,8 +39,8 @@
  */
 
 #pragma once
-#ifndef ___H__
-#define ___H__
+#ifndef ___HPP__
+#define ___HPP__
 
 
 
@@ -101,6 +101,6 @@
 #endif  // ! ___INTERNAL__
 
 // Leaving the header.
-#endif  // ! ___H__
+#endif  // ! ___HPP__
 
 /******************************************************************************/
