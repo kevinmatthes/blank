@@ -24,29 +24,31 @@
 ##  BRIEF       The definition of a GitHub Issue Template.
 ##  COPYRIGHT   GPL-2.0
 ##  DATE        2022
-##  FILE        new-template.yml
+##  FILE        feature-request-new-template.yml
 ##  NOTE        See `LICENSE' for full license.
 ##              See `README.md' for project details.
 ##
 ################################################################################
 
-name: New Template
+name: 'Feature Request:  New Template'
 description: Request a new template.
 title: '[Feature Request] New Template'
 labels:
-  - 'enhancement'
+  - enhancement
 assignees:
   - kevinmatthes
 body:
   - type: markdown
     attributes:
-      value: Please provide the following information to request a new template.
+      value: With this issue, a new template is requested.
   - type: input
     attributes:
       label: Purpose
-      description: Please specify what the new template is intended for.
-      placeholder: A coding language, a configuration file, ...
+      description: |
+        Please specify what the new template is intended for.  This is only
+        required if the issue title is not alredy descriptive enough.
+      placeholder: A coding language, a configuration file, or something similar
     validations:
-      required: true
+      required: false
 
 ################################################################################
