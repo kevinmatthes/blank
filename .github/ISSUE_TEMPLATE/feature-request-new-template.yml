@@ -32,7 +32,7 @@
 
 name: 'Feature Request:  New Template'
 description: Request a new template.
-title: [Feature Request] New Template
+title: '[Feature Request] New Template'
 labels:
   - enhancement
 assignees:
